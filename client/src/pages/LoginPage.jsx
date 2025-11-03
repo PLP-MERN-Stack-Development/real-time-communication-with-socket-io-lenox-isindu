@@ -54,12 +54,12 @@ const LoginPage = ({ onLogin }) => {
           </form>
 
           <div className="mt-8 p-4 bg-base-200 rounded-lg">
-            <h3 className="font-semibold mb-2">✨ Features you'll enjoy:</h3>
+            <h3 className="font-semibold mb-2"> Features you'll enjoy:</h3>
             <ul className="text-sm space-y-1 text-base-content/70">
               <li>• Real-time messaging with colleagues</li>
               <li>• Professional chat rooms</li>
               <li>• File sharing capabilities</li>
-              <li>• Secure and reliable</li>
+              <li>• Secure and reliablity</li>
             </ul>
           </div>
         </div>
